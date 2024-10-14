@@ -10,9 +10,9 @@ This project demonstrates how to use AWS Lambda to automate the deletion of unus
 - AWS Services Used
 - Pre-requisities
 - Project Setup
-Step 1. Creating the Lamdba Function
-Step 2. IAM Role Setup
-Step 3. Configuring CloudWatch Event
+01. Creating the Lamdba Function
+02. IAM Role Setup
+03. Configuring CloudWatch Event
 - Monitoring the Lambda Function
 - Testing the Lambda Function
 - License
